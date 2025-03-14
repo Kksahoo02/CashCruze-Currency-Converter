@@ -1,0 +1,4 @@
+<resources>
+    <attr name="windowLightStatusBar" format="boolean" />
+    <attr name="windowLightNavigationBar" format="boolean" />
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CashCruze</string>
+    <string name="amount">Enter Amount</string>
+    <string name="convert">Convert</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="swap_currencies">Swap</string>
+    <string name="dark_mode_toggle">Toggle dark mode</string>
+</resources>

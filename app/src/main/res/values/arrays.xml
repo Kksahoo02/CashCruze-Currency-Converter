@@ -1,0 +1,23 @@
+<resources>
+    <string-array name="currencies">
+        <item>USD - US Dollar</item>
+        <item>EUR - Euro</item>
+        <item>GBP - British Pound</item>
+        <item>JPY - Japanese Yen</item>
+        <item>CAD - Canadian Dollar</item>
+        <item>AUD - Australian Dollar</item>
+        <item>INR - Indian Rupee</item>
+        <item>CNY - Chinese Yuan</item>
+    </string-array>
+
+    <string-array name="currency_codes">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>CAD</item>
+        <item>AUD</item>
+        <item>INR</item>
+        <item>CNY</item>
+    </string-array>
+</resources>
