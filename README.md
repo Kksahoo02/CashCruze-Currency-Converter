@@ -31,11 +31,14 @@ A modern currency converter app for Android that provides real-time exchange rat
 
 ## UI Preview
 
+## UI Preview
+
 Here are some screenshots of the CashCruze Currency Converter:
 
-![Screenshot 1](https://github.com/Kksahoo02/CashCruze-Currency-Converter/blob/main/screenshots/Screenshot_20250314_095848-portrait.png?raw=true)
+<img src="https://github.com/Kksahoo02/CashCruze-Currency-Converter/blob/main/screenshots/Screenshot_20250314_095848-portrait.png?raw=true" width="300">
 
-![Screenshot 2](https://github.com/Kksahoo02/CashCruze-Currency-Converter/blob/main/screenshots/Screenshot_20250314_095856-portrait.png?raw=true)
+<img src="https://github.com/Kksahoo02/CashCruze-Currency-Converter/blob/main/screenshots/Screenshot_20250314_095856-portrait.png?raw=true" width="300">
+
 
 ## 📱 Download APK
 
